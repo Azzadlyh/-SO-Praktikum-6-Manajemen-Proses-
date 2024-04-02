@@ -48,7 +48,9 @@ while :
 do   
 echo “X”   
 sleep 20   
-done  
+done   
+
+![image](https://github.com/Azzadlyh/SO-Praktikum6-ManajemenProses/assets/126213404/65277854-75c3-44d2-b055-28294179252b)  
 
 ![image](https://github.com/Azzadlyh/SO-Praktikum6-ManajemenProses/assets/126213404/c1920849-0393-4021-bf2d-94339bc2ce56)  
 
@@ -74,6 +76,8 @@ do
  echo “Proses selesai pada „date‟” >> proses.log   
 sleep 60   
 done     
+
+![image](https://github.com/Azzadlyh/SO-Praktikum6-ManajemenProses/assets/126213404/a3eb6630-55a6-4cc1-8b55-431057412697)  
 
 ![image](https://github.com/Azzadlyh/SO-Praktikum6-ManajemenProses/assets/126213404/4d58f186-68c1-4098-965a-f558cce8566d)  
 ![image](https://github.com/Azzadlyh/SO-Praktikum6-ManajemenProses/assets/126213404/2c6a2432-3157-431b-a1ed-03de75a27f47)  
